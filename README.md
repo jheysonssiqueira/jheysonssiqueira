@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=Jheyson%20Silva%20Siqueira&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Automação%20%26%20RevOps&descAlignY=55&descAlign=62" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Jheyson+Silva+Siqueira;Engenheiro+de+Automa%C3%A7%C3%A3o;Especialista+em+RevOps" alt="Typing SVG" />
 </div>
-
 <h3 align="center">Transformando processos repetitivos em arquiteturas inteligentes. ⚙️🚀</h3>
 
 <div align="center">
