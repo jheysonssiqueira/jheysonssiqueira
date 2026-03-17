@@ -1,14 +1,15 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Jheyson+Silva+Siqueira;Engenheiro+de+Automa%C3%A7%C3%A3o;Especialista+em+RevOps" alt="Typing SVG" />
 </div>
+
 <h3 align="center">Transformando processos repetitivos em arquiteturas inteligentes. ⚙️🚀</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jheyson-silva-siqueira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jheyson0295@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -36,13 +37,13 @@ Sou um **Engenheiro de Automação & RevOps** focado em eliminar silos corporati
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   
-  <br>**Infraestrutura & Nuvem**<br>
+  <br><br>**Infraestrutura & Nuvem**<br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
   <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik-proxy&logoColor=white" />
   
-  <br>**Ecossistema RevOps & IA**<br>
+  <br><br>**Ecossistema RevOps & IA**<br>
   <img src="https://img.shields.io/badge/Mautic-494273?style=for-the-badge&logo=mautic&logoColor=white" />
   <img src="https://img.shields.io/badge/Chatwoot-1F93FF?style=for-the-badge&logo=chatwoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
